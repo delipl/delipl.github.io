@@ -1,0 +1,33 @@
+body{
+	background-color: #00ff00;
+}
+
+.content{
+	background-color: #0066cc;
+    border-radius: 10px;
+    text-align: center;
+    height: 100px;
+    padding: 20px;
+}
+
+.row{
+	margin-top: 5px;
+}
+#header{
+    font-size: 40px;
+    font-weight: bolder;
+    height: 105px;
+}
+#main .content{
+	height: 70vh;
+
+}
+#main2 .content{
+	height: 70vh;
+	
+}
+#main2 img{
+
+	width: 100%;
+	margin-top: 15%;
+}
