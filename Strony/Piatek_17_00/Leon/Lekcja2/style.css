@@ -1,0 +1,20 @@
+body{
+background-color:#9999ff;
+color:#00d2ff;  	
+}
+
+img{
+	height: 500px;
+}
+
+
+p{
+	text-align: justify; 
+}
+
+
+
+h2:hover{
+color:white;
+}
+
